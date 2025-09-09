@@ -13,4 +13,10 @@ My father name is A.Parthiban,he is a hardware engineer.
 My mother name is M.kruthika , she is a homemaker.
 #my rolemodel
 My rolemodel is my parents because they work hard , they sacrifices many things to see happiness in my face.
-Their happiness is to see their daughter sucessful .My father is working day and night without sleep to earn money but he spends everything for his family not for him.
+Their happiness is to see their daughter sucessful.
+My father is working day and night without sleep to earn money but he spends everything for his family not for him.
+# To faculty
+As already mentioned above my aim is to start a company but i does not know how to achieve it . I wanted to know about it.
+I also wish to enhance my coding skills and i am ready to work towards it.
+The way you teach is easy to undestand and nice.
+
